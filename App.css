@@ -1,0 +1,83 @@
+.div1
+{
+    background-color: rgb(8, 8, 8);
+    margin: 50px;
+    padding:220px 50px;
+    border-radius: 50px;
+    border: 8px solid rgb(7, 7, 7);
+    background-image: url("https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/06/touchkeyboardthemelight003.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+.head1
+{
+    font-style: normal;
+    font-family: monospace;
+    font-size: 70px;
+    color: black;
+}
+.head2{
+    font-style: normal;
+    font-family: monospace;
+    font-size: 40px;
+    color: black;
+}
+.b1{
+    background-color: rgb(223, 128, 128);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    color: black;
+    width: 150px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.b1:hover
+{
+    background-color: rgba(255, 45, 45, 0.055);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    color: black;
+    width: 150px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.b2{
+    background-color: rgb(126, 121, 207);
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    height: fit-content;
+    width: 150px;
+    margin-top: 50px;
+}
+.b2:hover{
+    background-color: rgba(82, 34, 255, 0.055);
+    border: 2px solid rgb(252, 244, 244);
+    border-radius: 5px;
+    color: black;
+    height: fit-content;
+    width: 150px;
+    margin-top: 50px;
+}
+.b3{
+    background-color: rgb(243, 240, 92);
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    height: fit-content;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.b3:hover{
+    background-color: rgba(200, 233, 14, 0.109);
+    border: 2px solid rgb(230, 221, 221);
+    border-radius: 5px;
+    color: black;
+    height: fit-content;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
